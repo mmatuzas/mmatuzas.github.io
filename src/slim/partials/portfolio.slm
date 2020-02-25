@@ -1,0 +1,22 @@
+article#portfolio.mt6
+  h1.abel.lh-title.fw4.black-70.bb.b--light-gray.pb4
+    | Some of my work
+
+  p.lh-copy.gray.f5.f4-ns
+    | These are some of the portfolio pages to show my small marketing, coding and other activities.
+
+
+  ul.list.pl0.f3.fw6.lh-title.bt.b--light-gray.pt3
+    li.dib.mr4
+      a.link.black(
+        href="https://github.com/mmatuzas"
+        target="_blank"
+        rel="noopener"
+      ) Github
+    li.dib.mr4
+      a.link.pink(
+        href="https://www.producthunt.com/@mmatuzas"
+        target="_blank"
+        rel="noopener"
+      ) ProductHunt
+    

@@ -1,0 +1,73 @@
+article#about.mt6
+  h1.abel.lh-title.fw4.black-70.bb.b--light-gray.pb4.ttc = I18n.about
+
+  - for var index in I18n.about_text
+    p.lh-copy.gray.mt4.f5.f4-ns = I18n.about_text[index]
+
+
+  h1.abel.lh-title.fw4.black-70.bb.b--light-gray.pb4.mt6
+    | I used to work with
+
+  ul.list.pl0.flex.items-center.flex-wrap
+    li.center.ph3.mv3.w-50.w-third-ns.tl
+      a[
+        href="https://www.scaleflex.com"
+        target="_blank"
+        rel="noopener"
+        aria-label="Scaleflex"
+        ]
+        img.f-gs.hover-f-gs-0(src="../images/scaleflex.png" alt="Scaleflex")
+
+    li.center.ph3.mv3.w-50.w-third-ns.tr
+      a[
+        href="https://www.cloudimage.com"
+        target="_blank"
+        rel="noopener"
+        aria-label="Cloudimage"
+        ]
+        img.f-gs.hover-f-gs-0(src="../images/cloudimage.png" alt="Webi Com")
+
+    li.center.ph3.mv3.w-50.w-third-ns.tc
+      a[
+        href="https://www.filerobot.com"
+        target="_blank"
+        rel="noopener"
+        aria-label="Filerobot"
+        ]
+        img.f-gs.hover-f-gs-0(src="../images/filerobot.png" alt="Filerobot")
+
+    li.center.ph3.mv3.w-50.w-third-ns.tc
+      a[
+        href="https://oxylabs.io/"
+        target="_blank"
+        rel="noopener"
+        aria-label="Oxylabs"
+        ]
+        img.f-gs.hover-f-gs-0(src="../images/oxylabs.jpg" alt="Oxylabs")
+
+    li.center.ph3.mv3.w-50.w-third-ns.tc
+      a[
+        href="https://wallstreetscout.io"
+        target="_blank"
+        rel="noopener"
+        aria-label="Wall Street Scout"
+        ]
+        img.f-gs.hover-f-gs-0(src="../images/wall-street-scout2.jpg" alt="Wall Street Scout")
+
+    li.center.ph3.mv3.w-50.w-third-ns.tc
+      a[
+        href="https://eldes.com"
+        target="_blank"
+        rel="noopener"
+        aria-label="Eldes"
+        ]
+        img.f-gs.hover-f-gs-0(src="../images/eldes.jpg" alt="Eldes")
+
+    li.center.ph3.mv3.w-50.w-third-ns.tc
+      a[
+        href="https://if.lt"
+        target="_blank"
+        rel="noopener"
+        aria-label="If Insurance"
+        ]
+        img.f-gs.hover-f-gs-0(src="../images/if-insurance.png" alt="If Insurance")

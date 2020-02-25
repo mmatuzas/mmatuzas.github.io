@@ -1,0 +1,88 @@
+article#resume.mt6.dark-gray
+  h1.abel.lh-title.fw4.black-70.bb.b--light-gray.pb4.mb0
+    | Resume
+
+  h2.lh-title.fw4.black-70.bb.b--light-gray.pv4.mt0 Work History
+
+  ul.list.pl0
+    li.cf.mb4.mt4
+      .fl-ns.w-25-ns.mb3.mb0-ns
+        time.fw6.f4 2019 - Now
+      .fl-ns.w-75-ns
+        hgroup
+          h3.mt0.mb2.f4 Scaleflex Group (Cloudimage and Filerobot)
+          h4.fw4.mt0 Growth Marketing Manager
+
+    li.cf.mb4
+      .fl-ns.w-25-ns.mb3.mb0-ns
+        time.fw6.f4 2017 - 2019
+      .fl-ns.w-75-ns
+        hgroup
+          h3.mt0.mb2.f4 Blue Ocean Robotics
+          h4.fw4.mt0 Director, Baltics
+
+          p.lh-copy.gray
+            | Robotics projects and office management for the Baltics region.
+
+    li.cf.mb4
+      .fl-ns.w-25-ns.mb3.mb0-ns
+        time.fw6.f4 2015 - 2018
+      .fl-ns.w-75-ns
+        hgroup
+          h3.mt0.mb2.f4 Oxylabs
+          h4.fw4.mt0 Senior Business Development Manager
+
+          p.lh-copy.gray
+            | Business and partnerships development for web scraping and data collection products. 
+
+    li.cf.mb4
+      .fl-ns.w-25-ns.mb3.mb0-ns
+        time.fw6.f4 2013 - 2015
+      .fl-ns.w-75-ns
+        hgroup
+          h3.mt0.mb2.f4 Eldes
+          h4.fw4.mt0 Partnership development manager
+
+          p.lh-copy.gray
+            | Marketing and business development activities to develop distribution channel for consumer electronics products in three continents.
+
+    li.cf.mb4
+      .fl-ns.w-25-ns.mb3.mb0-ns
+        time.fw6.f4 2013 - 2019
+      .fl-ns.w-75-ns
+        hgroup
+          h3.mt0.mb2.f4 Matuzmedia (solopreneurship, freelancing and own ideas)
+          h4.fw4.mt0 Marketing | Coding | Sales | Project management
+
+          p.lh-copy.gray
+            | I worked on a variety of internet projects (both freelancing and building own products). Website development, chatbot development, marketing and business development consulting, web scraping. Most notable project: Wall Street Scout (project management, web scraping, back-end and database parts, marketing).
+
+
+  h2.lh-title.fw4.black-70.bb.bt.b--light-gray.pv4 Education
+
+  ul.list.pl0
+    li.cf.mt4
+      .fl-ns.w-25-ns.mb3.mb0-ns
+        time.fw6.f4 2001 - 2005
+      .fl-ns.w-75-ns
+        hgroup
+          h3.mt0.mb2.lh-title Institute Of Informational Technologies & Employee Management
+          h4.fw4.mt0 Bachelor - Computer Systems in Management
+
+  h2.lh-title.fw4.black-70.bb.bt.b--light-gray.pv4 Skills
+
+  ul.list.pl0
+    li.ba.b--navy.mb3
+      .pa3.w-100.bg-navy.fw6.white.f4 Photoshop (UI/UX)
+    li.ba.b--light-yellow.mb3
+      .pa3.w-100.bg-light-yellow.fw6.dark-gray.f4 Sketch (UI/UX)
+    li.ba.b--yellow.mb3
+      .pa3.w-100.bg-yellow.fw6.dark-gray.f4 CSS
+    li.ba.b--blue.mb3
+      .pa3.w-100.bg-blue.fw6.white.f4 HTML
+    li.ba.b--gold.mb3
+      .pa3.w-90.bg-gold.fw6.dark-gray.f4 Javascript (React.js)
+    li.ba.b--red.mb3
+      .pa3.w-80.bg-red.fw6.white.f4 Ruby (Ruby on Rails)
+    li.ba.b--light-blue.mb3
+      .pa3.w-75.bg-light-blue.fw6.dark-blue.f4 Linux
